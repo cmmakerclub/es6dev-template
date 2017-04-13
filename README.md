@@ -1,4 +1,5 @@
-# Traffy Trash Bridge
+# es6dev-template
+don't forget to change your project name in `package.json`
 
 ## Development 
 
@@ -7,6 +8,5 @@
 
 ##  Production
 
-    $ npm install
     $ npm install -g forever
     $ forever dist/index.js
